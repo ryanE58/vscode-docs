@@ -30,4 +30,8 @@
     "doc-assistant.milestone": "February 2025",
 
     "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
 }
